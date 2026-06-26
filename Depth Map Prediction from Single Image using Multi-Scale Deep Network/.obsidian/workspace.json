@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "ea4f9fa1daf2099c",
+    "type": "split",
+    "children": [
+      {
+        "id": "962660013fe744d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a8a37947d2dce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb1d2bce16681d7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "26001fc4db40daf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0305da7066425b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "697976d183ea90f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c7a3298a2b81e13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "96aa3cf317c6e5c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7223d6852a371f0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e93984b26d68b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Depth Map Prediction from a Single Image using a Multi-Scale Deep Network"
+            }
+          },
+          {
+            "id": "6f8e8dafc20349e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Depth Map Prediction from a Single Image using a Multi-Scale Deep Network"
+            }
+          },
+          {
+            "id": "d49aee46c1513060",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0be5dc5225a22556",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "15ff3e3a1838650e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Depth Map Prediction from a Single Image using a Multi-Scale Deep Network"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "57a8a37947d2dce1",
+  "lastOpenFiles": [
+    "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network.md"
+  ]
+}
